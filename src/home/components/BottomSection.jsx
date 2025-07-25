@@ -1,6 +1,8 @@
 function BottomSection() {
   return (
     <>
+      
+     
       <section className="bg-gradient-to-b from-[#E7F9FD00] to-[#E7F9FD] md:p-32 p-12">
         <div className="flex flex-col items-center md:max-w-1/2 gap-4 md:mx-auto md:text-center gap-y-8">
           <h1 className="text-5xl font-semibold">

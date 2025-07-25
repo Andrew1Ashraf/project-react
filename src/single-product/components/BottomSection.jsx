@@ -60,7 +60,7 @@ function BottomSection() {
                 non numquam eius modi tempora incidunt ut labore et dolore
                 magnam aliquam quaerat voluptatem.
               </p>
-              <img src="Fist step.png" alt="first-step" />
+              <img src="/assets/Recipes/Fist step.png" alt="first-step" />
               <p>
                 Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
                 aut fugit, sed quia consequuntur magni dolores eos qui ratione
@@ -109,7 +109,7 @@ function BottomSection() {
             <h2>Other Recipes</h2>
 
             <div className="item">
-              <img src="meatball.png" alt="recipe" />
+              <img src="/assets/Recipes/meatball.png" alt="recipe" />
               <div className="text">
                 Chicken meatball with <br /> creamy cheese.. <br />
                 <span>By Andreas Paula</span>
@@ -117,7 +117,7 @@ function BottomSection() {
             </div>
 
             <div className="item">
-              <img src="chicken and rice.png" alt="recipe" />
+              <img src="/assets/Recipes/chicken and rice.png" alt="recipe" />
               <div className="text">
                 Chicken fried with <br /> sauce and Rice... <br />
                 <span>By Andreas Paula</span>
@@ -125,7 +125,7 @@ function BottomSection() {
             </div>
 
             <div className="item">
-              <img src="creamychicken.png" alt="recipe" />
+              <img src="/assets/Recipes/creamychicken.png" alt="recipe" />
               <div className="text">
                 The creamiest creamy <br /> chicken and.. <br />
                 <span>By Andreas Paula</span>
@@ -136,7 +136,7 @@ function BottomSection() {
               <p>
                 Don't forget to eat <br /> healthy food
               </p>
-              <img src="healthy-food.png" alt="Healthy food" />
+              <img src="/assets/Recipes/healthy-food.png" alt="Healthy food" />
             </div>
           </div>
         </div>
